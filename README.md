@@ -1,6 +1,17 @@
 # 💫 About Me:
- I am currently in my final year
+I am currently in my final year, passionate about building intelligent systems and scalable software solutions. I enjoy working at the intersection of Artificial Intelligence, Machine Learning, and Full-Stack Development to solve real-world problems using data-driven approaches.
 
+I have hands-on experience in designing and developing AI-powered applications, including machine learning pipelines, resume screening systems, analytics dashboards, and intelligent automation tools. My technical expertise spans across Python, TensorFlow, scikit-learn, Angular, TypeScript, and cloud platforms like AWS and Azure.
+
+🔹 Strong interest in AI, ML, and Deep Learning  
+🔹 Experience with data analysis using Pandas, NumPy, and Matplotlib  
+🔹 Knowledge of model training, evaluation, and deployment  
+🔹 Familiar with cloud-based ML workflows and scalable systems  
+🔹 Exploring Retrieval-Augmented Generation (RAG) and Explainable AI (XAI)  
+
+I enjoy experimenting with new technologies, optimizing model performance, and building clean, user-friendly interfaces. My goal is to become an AI Engineer who builds impactful, scalable, and responsible AI solutions.
+
+Currently seeking opportunities in AI, ML, and Software Development where I can contribute, learn, and grow.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yakkaladevi-bhuvanesh-591a51318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yakkaladevibhuvanesh@gmail.com) 
