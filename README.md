@@ -1,19 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=YAKKALADEVI+BHUVANESH;AI+ENGINEER;SCALABLE+INTELLIGENT+SYSTEMS" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=120&text=YAKKALADEVI%20BHUVANESH&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=7F00FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Developer+%7C+AI+Systems+Builder+%7C+Cloud+Integrated+Solutions" />
-</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=140&section=header"/>
+  <b>AI Engineer • ML Developer • Intelligent Systems Builder</b>
 </p>
-
 ---
 
 ## 🧠 About Me
