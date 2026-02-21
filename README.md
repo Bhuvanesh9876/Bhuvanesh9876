@@ -1,8 +1,12 @@
 <h1 align="center">🚀 Bhuvanesh Yakkaladevi</h1>
-<h3 align="center">AI Engineer | Machine Learning Developer | Full-Stack Builder</h3>
+<h3 align="center">AI Engineer | Machine Learning Developer | Scalable Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+AI+Systems;Machine+Learning+Engineer;Full-Stack+AI+Developer;Cloud+Integrated+ML+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Designing+Production-Ready+AI+Systems;Machine+Learning+Engineer;Full-Stack+AI+Developer;Cloud-Integrated+ML+Solutions;Bridging+Research+%26+Deployment" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=120&section=header"/>
 </p>
 
 ---
@@ -11,15 +15,15 @@
 
 🎓 Final Year Engineering Student specializing in Artificial Intelligence & Machine Learning  
 
-I design and build intelligent, scalable systems that solve real-world problems using data-driven approaches. My focus is on developing production-ready ML pipelines, AI-powered applications, and cloud-deployable solutions.
+I build intelligent, scalable systems that transform real-world problems into data-driven solutions. My work focuses on developing production-ready ML pipelines, AI-powered applications, and cloud-deployable architectures.
 
 🔹 Strong foundation in Machine Learning & Deep Learning  
-🔹 Experience building Resume Screening & Analytics Systems  
+🔹 Experience building Resume Screening & Analytics Platforms  
 🔹 Skilled in Model Training, Evaluation & Optimization  
-🔹 Knowledge of Cloud Deployment (AWS & Azure)  
-🔹 Exploring Retrieval-Augmented Generation (RAG) & Explainable AI  
+🔹 Experience integrating AI into Full-Stack applications  
+🔹 Exploring Retrieval-Augmented Generation (RAG) & Explainable AI (XAI)  
 
-🎯 Career Goal: To become a production-level AI Engineer building impactful and responsible AI systems.
+🎯 **Career Goal:** To engineer impactful, scalable, and responsible AI systems at production scale.
 
 ---
 
@@ -27,37 +31,37 @@ I design and build intelligent, scalable systems that solve real-world problems 
 
 ✔️ End-to-end ML pipeline development  
 ✔️ Data preprocessing & feature engineering  
-✔️ Model explainability & evaluation  
-✔️ Full-stack integration of AI systems  
-✔️ Clean, maintainable, scalable code  
+✔️ Model explainability & performance optimization  
+✔️ AI + Full-Stack system integration  
+✔️ Clean, modular, and scalable architecture design  
 
 ---
 
-## 💻 Technical Skills
+## ⚡ Core Technical Stack
 
 ### 🤖 AI / Machine Learning
-Python • TensorFlow • Keras • scikit-learn • Pandas • NumPy • MLflow
+Python • TensorFlow • Keras • scikit-learn • Pandas • NumPy • MLflow  
 
 ### 🌐 Development
-Angular • TypeScript • JavaScript • HTML5 • Vite
+Angular • TypeScript • JavaScript • HTML5 • Vite  
 
-### ☁️ Cloud & Database
-AWS • Azure • MySQL
+### ☁️ Cloud & Databases
+AWS • Azure • MySQL  
 
-### 🛠 Tools
-Git • PowerShell • Matplotlib
+### 🛠 Tools & Engineering
+Git • PowerShell • Matplotlib  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh9876&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Bhuvanesh9876&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh9876&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Bhuvanesh9876&theme=tokyonight&hide_border=true&background=0D1117" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh9876&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh9876&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 </p>
 
 ---
@@ -65,16 +69,20 @@ Git • PowerShell • Matplotlib
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/yakkaladevi-bhuvanesh-591a51318" target="blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/yakkaladevi-bhuvanesh-591a51318">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 <a href="mailto:yakkaladevibhuvanesh@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhuvanesh9876&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Bhuvanesh9876&label=Profile%20Views&color=00F7FF&style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f2027&height=120&section=footer"/>
 </p>
