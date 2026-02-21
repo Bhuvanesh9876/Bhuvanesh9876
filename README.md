@@ -1,29 +1,80 @@
-# 💫 About Me:
-I am currently in my final year, passionate about building intelligent systems and scalable software solutions. I enjoy working at the intersection of Artificial Intelligence, Machine Learning, and Full-Stack Development to solve real-world problems using data-driven approaches.
+<h1 align="center">Hi 👋, I'm Bhuvanesh</h1>
+<h3 align="center">🚀 AI Engineer | ML Developer | Full-Stack Enthusiast</h3>
 
-I have hands-on experience in designing and developing AI-powered applications, including machine learning pipelines, resume screening systems, analytics dashboards, and intelligent automation tools. My technical expertise spans across Python, TensorFlow, scikit-learn, Angular, TypeScript, and cloud platforms like AWS and Azure.
-
-🔹 Strong interest in AI, ML, and Deep Learning  
-🔹 Experience with data analysis using Pandas, NumPy, and Matplotlib  
-🔹 Knowledge of model training, evaluation, and deployment  
-🔹 Familiar with cloud-based ML workflows and scalable systems  
-🔹 Exploring Retrieval-Augmented Generation (RAG) and Explainable AI (XAI)  
-
-I enjoy experimenting with new technologies, optimizing model performance, and building clean, user-friendly interfaces. My goal is to become an AI Engineer who builds impactful, scalable, and responsible AI solutions.
-
-Currently seeking opportunities in AI, ML, and Software Development where I can contribute, learn, and grow.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yakkaladevi-bhuvanesh-591a51318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yakkaladevibhuvanesh@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhuvanesh9876&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhuvanesh9876&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh9876&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Machine+Learning+Developer;Full-Stack+Builder;Cloud+Enthusiast;Building+Scalable+AI+Systems" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhuvanesh9876&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🎓 Final Year Student passionate about AI & scalable software  
+🤖 Building Machine Learning & Deep Learning solutions  
+📊 Strong in Data Analysis & Model Optimization  
+☁️ Experience with AWS & Azure Cloud  
+🧠 Exploring RAG Systems & Explainable AI  
+🚀 Goal: Become a Production-Level AI Engineer  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/yakkaladevi-bhuvanesh-591a51318" target="blank">
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yakkaladevibhuvanesh@gmail.com">
+<img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Programming & Web
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh9876&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh9876&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh9876&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Bhuvanesh9876/Bhuvanesh9876/output/snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhuvanesh9876&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
