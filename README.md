@@ -1,12 +1,17 @@
-<h1 align="center"> YAKKALADEVI BHUVANESH</h1>
-<h3 align="center">AI Engineer | Machine Learning Developer | Scalable Systems Builder</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=YAKKALADEVI+BHUVANESH;AI+ENGINEER;SCALABLE+INTELLIGENT+SYSTEMS" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Designing+Production-Ready+AI+Systems;Machine+Learning+Engineer;Full-Stack+AI+Developer;Cloud-Integrated+ML+Solutions;Bridging+Research+%26+Deployment" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=4"/>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=7F00FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Developer+%7C+AI+Systems+Builder+%7C+Cloud+Integrated+Solutions" />
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=140&section=header"/>
 </p>
 
 ---
@@ -23,7 +28,7 @@ I build intelligent, scalable systems that transform real-world problems into da
 🔹 Experience integrating AI into Full-Stack applications  
 🔹 Exploring Retrieval-Augmented Generation (RAG) & Explainable AI (XAI)  
 
-🎯 **Career Goal:** To engineer impactful, scalable, and responsible AI systems at production scale.
+🎯 **Career Goal:** Engineer impactful, scalable, and responsible AI systems at production scale.
 
 ---
 
@@ -31,9 +36,9 @@ I build intelligent, scalable systems that transform real-world problems into da
 
 ✔️ End-to-end ML pipeline development  
 ✔️ Data preprocessing & feature engineering  
-✔️ Model explainability & performance optimization  
+✔️ Model explainability & optimization  
 ✔️ AI + Full-Stack system integration  
-✔️ Clean, modular, and scalable architecture design  
+✔️ Clean, modular, scalable architecture design  
 
 ---
 
@@ -48,10 +53,8 @@ Angular • TypeScript • JavaScript • HTML5 • Vite
 ### ☁️ Cloud & Databases
 AWS • Azure • MySQL  
 
-### 🛠 Tools & Engineering
+### 🛠 Tools
 Git • PowerShell • Matplotlib  
-
----
 
 ---
 
@@ -73,5 +76,5 @@ Git • PowerShell • Matplotlib
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=140&section=footer"/>
 </p>
