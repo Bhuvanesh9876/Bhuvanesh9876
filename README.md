@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=120&text=YAKKALADEVI%20BHUVANESH&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=6"/>
 </p>
+
+<h1 align="center" style="font-size: 48px; letter-spacing: 3px;">
+  YAKKALADEVI BHUVANESH
+</h1>
+
+<h3 align="center">
+  <b>AI ENGINEER • MACHINE LEARNING DEVELOPER • SCALABLE SYSTEMS BUILDER</b>
+</h3>
 
 <p align="center">
-  <b>AI Engineer • ML Developer • Intelligent Systems Builder</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=4"/>
 </p>
----
-
 ## 🧠 About Me
 
 🎓 Final Year Engineering Student specializing in Artificial Intelligence & Machine Learning  
