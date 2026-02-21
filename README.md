@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Bhuvanesh Yakkaladevi</h1>
+<h1 align="center"> YAKKALADEVI BHUVANESH</h1>
 <h3 align="center">AI Engineer | Machine Learning Developer | Scalable Systems Builder</h3>
 
 <p align="center">
